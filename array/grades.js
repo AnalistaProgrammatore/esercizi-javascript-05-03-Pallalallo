@@ -1,5 +1,5 @@
 
-let nome = 'adrea';
+let nome = 'andrea';
 let grades = {
     giorgio: [1, 2, 3],
     alessandro: [],
